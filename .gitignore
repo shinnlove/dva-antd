@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+
+*.git
+.project
+.classpath
+*.prefs
+*.bat
+target
+*.class
+bin
+.DS_Store
+*.log
+.txt
+.idea/
+dist/
+node_modules/
+*.iml
+package-lock.json
+
